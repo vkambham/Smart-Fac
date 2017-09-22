@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_type" label="Type" language="en" table="x_10204_smartfac_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <help/>
+            <hint/>
+            <label>Type</label>
+            <language>en</language>
+            <name>x_10204_smartfac_table</name>
+            <plural>Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 20:46:45</sys_created_on>
+            <sys_id>b40ed036db9103002b1173ffbf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type</sys_name>
+            <sys_package display_value="SmartFac" source="x_10204_smartfac">46dfef6edb1103002b1173ffbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SmartFac">46dfef6edb1103002b1173ffbf9619ef</sys_scope>
+            <sys_update_name>sys_documentation_x_10204_smartfac_table_u_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 20:46:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

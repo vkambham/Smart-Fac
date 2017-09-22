@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>SmartFac</name>
+        <order/>
+        <roles>smartfac.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-22 17:25:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1adfaf6edb1103002b1173ffbf9619a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SmartFac</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SmartFac" source="x_10204_smartfac">46dfef6edb1103002b1173ffbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SmartFac">46dfef6edb1103002b1173ffbf9619ef</sys_scope>
+        <sys_update_name>sys_app_application_1adfaf6edb1103002b1173ffbf9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-22 17:25:04</sys_updated_on>
+        <title>SmartFac</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

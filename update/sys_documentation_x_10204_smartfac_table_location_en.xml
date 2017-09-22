@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="location" label="Location" language="en" table="x_10204_smartfac_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_10204_smartfac_table</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:28:19</sys_created_on>
+            <sys_id>4e90fbaedb1103002b1173ffbf96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="SmartFac" source="x_10204_smartfac">46dfef6edb1103002b1173ffbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SmartFac">46dfef6edb1103002b1173ffbf9619ef</sys_scope>
+            <sys_update_name>sys_documentation_x_10204_smartfac_table_location_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:28:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

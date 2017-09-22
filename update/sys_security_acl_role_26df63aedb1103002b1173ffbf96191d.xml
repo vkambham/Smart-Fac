@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-22 17:25:04</sys_created_on>
+        <sys_id>26df63aedb1103002b1173ffbf96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10204_smartfac_table.smartfac.user</sys_name>
+        <sys_package display_value="SmartFac" source="x_10204_smartfac">46dfef6edb1103002b1173ffbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SmartFac">46dfef6edb1103002b1173ffbf9619ef</sys_scope>
+        <sys_security_acl display_value="x_10204_smartfac_table">eedf63aedb1103002b1173ffbf96191a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_26df63aedb1103002b1173ffbf96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-22 17:25:04</sys_updated_on>
+        <sys_user_role display_value="smartfac.user" name="smartfac.user">16df23aedb1103002b1173ffbf9619fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
